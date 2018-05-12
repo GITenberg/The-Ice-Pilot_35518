@@ -10,6 +10,8 @@ creator:
     gutenberg_agent_id: '36707'
     url: http://www.gutenberg.org/2009/agents/36707
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/35518#The-Ice-Pilot
 gutenberg_issued: '2011-03-07'
 gutenberg_type: Text
 identifiers:
