@@ -1,0 +1,26 @@
+_repo: The-Ice-Pilot_35518
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 35518-rst/images/cover.jpg
+creator:
+  author:
+    agent_name: Leverage, Henry
+    birthdate: 1885
+    gutenberg_agent_id: '36707'
+    url: http://www.gutenberg.org/2009/agents/36707
+description: ''
+gutenberg_issued: '2011-03-07'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '35518'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Sea stories'
+- !lcsh 'Arctic regions -- Fiction'
+- !lcc 'PS'
+title: The Ice Pilot
+url: http://www.gutenberg.org/ebooks/35518
